@@ -1,1 +1,1 @@
-# sensei_pascal
+# Sensei Pascal
